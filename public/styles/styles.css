@@ -1,0 +1,27 @@
+.carousel-content {
+    position: absolute;
+    width: 1024px;
+    left: 50%;
+    margin-left: -512px;
+    text-align: center;
+    top: 5%;
+    z-index: 20;
+    color: white;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+    
+  }
+
+  .jumbotron {
+    background: none;
+    background-image: linear-gradient(to bottom, rgba(141, 141, 141, 0.99), rgba(27, 27, 27, 0.95));
+    border-style: solid;
+    border-color: white;
+    border-width: 4px;
+    font-family: 'Hepta Slab', serif;
+    box-shadow: 5px 5px 5px grey;
+  }
+
+  img {
+      width: 2250px;
+      height: 1500px;
+  }
