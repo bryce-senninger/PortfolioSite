@@ -4,7 +4,7 @@
     left: 50%;
     margin-left: -512px;
     text-align: center;
-    top: 5%;
+    top: 2%;
     z-index: 20;
     color: white;
     text-shadow: 0 1px 2px rgba(0,0,0,.6);
@@ -16,6 +16,14 @@
     font-family: 'Hepta Slab', serif;
     box-shadow: 5px 5px 5px grey;
   }
+
+hr {
+    border-color: rgb(2, 171, 184);
+}
+
+.hr2 {
+    border-color: white;
+}
 
 .jumbotron {
     background: none;
@@ -81,10 +89,6 @@ img {
     transform: scale(1.1);
 }
 
-hr {
-    border-color: white;
-}
-
 .bioPageJumbo {
     position: absolute;
     width: 1024px;
@@ -105,7 +109,7 @@ hr {
 }
 
 .jumbotron {
-    box-shadow: 5px 5px 5px rgb(2, 171, 184);
+    box-shadow: 5px 5px 7px rgb(2, 171, 184);
 }
 
 a {
@@ -122,4 +126,21 @@ a {
 
 .recipeTracker {
     font-family: 'Shadows Into Light', cursive;
+}
+
+.readyMetGoJumbo {
+    background-image: linear-gradient(to bottom, rgb(241,127,217, .95), rgb(236,238,134, .95));
+    color: rgb(22, 22, 22);
+}
+
+.recipeJumbo {
+    background-image: linear-gradient(to right, rgba(54, 153, 78, 0.95), rgba(196, 182, 155, 0.95));
+}
+
+.techJobJumbo {
+    background-image: linear-gradient(to right, rgba(153, 156, 131, 0.95), rgba(51, 101, 177, 0.95));
+}
+
+.metHr {
+    border-color: rgb(22, 22, 22);
 }
