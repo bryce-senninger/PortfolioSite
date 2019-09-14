@@ -66,9 +66,9 @@ hr {
 .carousel-content2 {
     position: absolute;
     width: 512px;
-    left: 5%;
+    left: 2%;
     text-align: center;
-    top: 45%;
+    top: 57%;
     z-index: 20;
     color: white;
     text-shadow: 0 1px 2px rgba(0,0,0,.6);
@@ -81,7 +81,7 @@ hr {
     left: 50%;
     margin-left: -384px;
     text-align: center;
-    top: 61%;
+    top: 86%;
     z-index: 25;
     color: white;
     text-shadow: 0 1px 2px rgba(0,0,0,.6);
@@ -91,10 +91,10 @@ hr {
 .carousel-content4 {
     position: absolute;
     width: 512px;
-    left: 95%;
+    left: 98%;
     margin-left: -512px;
     text-align: center;
-    top: 45%;
+    top: 57%;
     z-index: 20;
     color: white;
     text-shadow: 0 1px 2px rgba(0,0,0,.6); 
@@ -153,7 +153,7 @@ a {
 
 .readyMetGoJumbo {
     background-image: linear-gradient(to bottom, rgb(241,127,217, .95), rgb(236,238,134, .95));
-    color: rgb(22, 22, 22);
+    color: rgb(54, 23, 23);
 }
 
 .recipeJumbo {
