@@ -144,3 +144,8 @@ a {
 .metHr {
     border-color: rgb(22, 22, 22);
 }
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
