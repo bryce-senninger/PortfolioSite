@@ -66,7 +66,7 @@ hr {
 .carousel-content2 {
     position: absolute;
     width: 512px;
-    left: 4%;
+    left: 5%;
     text-align: center;
     top: 54%;
     z-index: 20;
@@ -91,7 +91,7 @@ hr {
 .carousel-content4 {
     position: absolute;
     width: 512px;
-    left: 96%;
+    left: 95%;
     margin-left: -512px;
     text-align: center;
     top: 54%;
@@ -153,7 +153,7 @@ a {
 
 .readyMetGoJumbo {
     background-image: linear-gradient(to bottom, rgb(241,127,217, .95), rgb(236,238,134, .95));
-    color: rgb(54, 23, 23);
+    color: rgb(43, 39, 39);
 }
 
 .recipeJumbo {
