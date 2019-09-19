@@ -55,7 +55,6 @@ hr {
 
 .headerjumbo {
     text-align: center;
-    margin-top: 25px;
     margin-left: 10px;
     margin-right: 10px;
     z-index: 20;
@@ -68,7 +67,11 @@ hr {
     border-width: 4px;
     font-family: 'Hepta Slab', serif;
     box-shadow: 5px 5px 7px rgb(2, 171, 184);
-  }
+}
+
+.carousel-contentHead {
+    padding-top: 20px;
+}
 
 .bioPageJumbo {
     background-image: linear-gradient(to bottom, rgba(99, 98, 98, 0.99), rgba(27, 27, 27, 0.95));
